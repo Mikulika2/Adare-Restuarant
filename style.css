@@ -1,0 +1,69 @@
+
+html {
+    height: 100%;
+}
+body {
+    background-image: url(adare-logo/background-adare-restaurant.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+    height: 118px;
+    text-align: center;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.384);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+main {
+    height: 400px;
+    text-align: center;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.596);
+    height: 100px;
+    text-align: center;
+}
+body h1 {
+    color: white;
+    font-size: 54px;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body p {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-right: 220px;
+    padding-left: 220px;
+}
+body p a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer p {
+    color: white;
+    font-size: 18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 45px;
+    padding-bottom: 45px;
+}
+nav a {
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
